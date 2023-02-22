@@ -1,6 +1,9 @@
 # vscode
 .vscode 
 
+# myenv
+*.bat
+
 # Intellij
 *.iml
 .idea
